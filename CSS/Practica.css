@@ -1,0 +1,23 @@
+.background-image: irl
+
+
+.titulo1{
+    color:rgb(142, 21, 255);
+    font-size: 50 px;
+
+}
+.parrafo1{
+    color:rgb(238, 21, 231)
+}
+.parrafo2{
+    color:rgb(21, 8, 46);
+        /*esto es para ponerle tamaño al parrafo 2*/
+    font-size: 30px;
+}
+.imagen{
+    /*Esto es para ponerle tamaño a la imagen
+    vertical y horizontal*/
+
+    height: 300px;
+    width: 400px;
+}
